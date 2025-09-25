@@ -1,0 +1,12 @@
+[09-Mar-2023 20:48:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-scripts.php on line 18
+[09-Mar-2023 20:48:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Dependencies' not found in /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-styles.php on line 18
+[09-Mar-2023 20:48:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/aqmkbwxk/phutan.com.vn/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/aqmkbwxk/phutan.com.vn/wp-includes/template-canvas.php on line 12

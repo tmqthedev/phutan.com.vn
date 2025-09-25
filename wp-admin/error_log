@@ -1,0 +1,5 @@
+[25-Feb-2023 09:08:10 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aqmkbwxk/phutan.com.vn/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[25-Feb-2023 09:08:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aqmkbwxk/phutan.com.vn/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[25-Feb-2023 09:08:32 UTC] PHP Warning:  sprintf(): Too few arguments in /home/aqmkbwxk/phutan.com.vn/wp-admin/includes/class-bulk-upgrader-skin.php on line 156
+[25-Feb-2023 09:13:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aqmkbwxk/phutan.com.vn/wp-content/themes/flatsome/inc/admin/envato_setup/envato_setup.php on line 1743
+[20-Mar-2024 07:14:03 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0

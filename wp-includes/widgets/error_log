@@ -1,0 +1,4 @@
+[09-Mar-2023 20:49:35 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/aqmkbwxk/phutan.com.vn/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/aqmkbwxk/phutan.com.vn/wp-includes/widgets/class-wp-widget-block.php on line 17

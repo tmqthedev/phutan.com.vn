@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//phutan.com.vn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://phutan.com.vn/category/khong-phan-loai/</loc>
+		<lastmod>2023-03-01T18:16:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/cong-trinh-tieu-bieu/</loc>
+		<lastmod>2023-06-03T02:09:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/cua-cuon/</loc>
+		<lastmod>2023-03-01T05:57:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/lan-can-cau-thang-kinh/</loc>
+		<lastmod>2023-03-01T18:23:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/cua-nhom-kinh/</loc>
+		<lastmod>2023-05-03T08:48:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/tu-bep/</loc>
+		<lastmod>2023-03-21T16:25:24+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://phutan.com.vn/category/tin-tuc/</loc>
+		<lastmod>2023-05-03T08:48:15+00:00</lastmod>
+	</url>
+</urlset>

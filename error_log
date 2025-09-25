@@ -1,0 +1,90 @@
+[26-Feb-2023 03:04:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[26-Feb-2023 03:21:12 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Feb-2023 13:46:37 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Feb-2023 16:44:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[27-Feb-2023 16:44:27 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[27-Feb-2023 16:48:58 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[27-Feb-2023 16:48:58 UTC] Cron unschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[27-Feb-2023 18:21:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[27-Feb-2023 18:38:31 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[28-Feb-2023 08:47:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-Feb-2023 08:47:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-Feb-2023 18:23:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-Feb-2023 18:23:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-Feb-2023 19:11:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-Feb-2023 19:11:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 05:08:20 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 05:08:20 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 05:58:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 05:58:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 06:14:10 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 06:14:10 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 06:33:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 06:33:06 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 10:29:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 10:29:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 10:39:56 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[01-Mar-2023 10:39:56 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[02-Mar-2023 04:36:13 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Mar-2023 14:15:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 14:15:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 14:30:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 14:30:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 14:32:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 14:32:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:19:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:19:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:24:52 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:24:52 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:27:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:27:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:31:02 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:31:02 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:33:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-Mar-2023 15:33:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[09-May-2023 22:40:52 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[09-May-2023 22:40:52 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[10-May-2023 16:46:51 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[10-May-2023 16:46:51 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2023 02:30:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2023 02:30:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[09-Jun-2023 08:16:15 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[09-Jun-2023 08:16:15 UTC] Cron reschedule event error for hook: rsssl_every_five_minutes_hook, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[15-Jul-2023 10:49:23 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/aqmkbwxk/phutan.com.vn/wp-includes/update.php on line 447
+[15-Jul-2023 10:50:07 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/aqmkbwxk/phutan.com.vn/wp-includes/update.php on line 447
+[15-Jul-2023 10:50:27 UTC] PHP Warning:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in /home/aqmkbwxk/phutan.com.vn/wp-includes/update.php on line 447
+[10-Nov-2023 05:39:47 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM pt_options WHERE option_name = 'nsl_twitter' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, NextendSocialLogin::plugins_loaded, require_once('/plugins/nextend-facebook-connect/providers/twitter/twitter.php'), NextendSocialProviderTwitter->__construct, NextendSocialProviderOAuth->__construct, NextendSocialProvider->__construct, NextendSocialLoginSettings->__construct, get_option
+[26-Nov-2023 02:05:56 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:06:39 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:08:06 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:08:08 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:08:09 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:08:16 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[26-Nov-2023 02:08:21 UTC] PHP Warning:  Module 'igbinary' already loaded in Unknown on line 0
+[15-Dec-2023 06:57:38 UTC] WordPress database error Lost connection to MySQL server during query for query SELECT option_value FROM pt_options WHERE option_name = 'woocommerce_thumbnail_cropping' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->add_image_sizes, wc_get_image_size, get_option
+[28-Feb-2024 18:05:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[28-Feb-2024 18:05:22 UTC] Cron reschedule event error for hook: rocket_preload_process_pending, Error code: could_not_set, Error message: Không thể lưu danh sách sự kiện cron., Data: {"schedule":"rocket_preload_process_pending","args":[],"interval":60}
+[30-Jul-2024 18:57:27 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: rsssl_every_five_minutes_hook, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: rsssl_every_five_minutes_hook, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"rsssl_five_minutes","args":[],"interval":300}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: wp_privacy_delete_old_export_files, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: wp_privacy_delete_old_export_files, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: rocket_purge_time_event, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"rocket_expired_cache_cron_interval","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: rocket_purge_time_event, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"rocket_expired_cache_cron_interval","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: wc_admin_process_orders_milestone, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: wc_admin_process_orders_milestone, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: wc_admin_unsnooze_admin_notes, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: wc_admin_unsnooze_admin_notes, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi lịch sự kiện Cron cho hook: itsec_cron, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":["flush-files"],"interval":3600}
+[30-Jul-2024 18:57:36 UTC] Lỗi hủy lịch sự kiện Cron cho hook: itsec_cron, Mã lỗi: could_not_set, Thông báo lỗi: Không thể lưu danh sách sự kiện cron., Dữ liệu: {"schedule":"hourly","args":["flush-files"],"interval":3600}
+[08-Oct-2024 22:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function WC() in /home/aqmkbwxk/phutan.com.vn/wp-content/themes/flatsome-child/functions.php:8
+Stack trace:
+#0 /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-hook.php(324): remove_output_structured_data('')
+#1 /home/aqmkbwxk/phutan.com.vn/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/aqmkbwxk/phutan.com.vn/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/aqmkbwxk/phutan.com.vn/wp-settings.php(700): do_action('init')
+#4 /home/aqmkbwxk/phutan.com.vn/wp-config.php(111): require_once('/home/aqmkbwxk/...')
+#5 /home/aqmkbwxk/phutan.com.vn/wp-load.php(50): require_once('/home/aqmkbwxk/...')
+#6 /home/aqmkbwxk/phutan.com.vn/wp-activate.php(12): require('/home/aqmkbwxk/...')
+#7 {main}
+  thrown in /home/aqmkbwxk/phutan.com.vn/wp-content/themes/flatsome-child/functions.php on line 8
